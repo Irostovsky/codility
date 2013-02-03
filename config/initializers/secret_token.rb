@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Codility::Application.config.secret_token = '8935b8635add3d74c5a139e3f79466057651a858839d6a2d4717b9b417f96f24026b587b6b350951ac19bbd6b6f3460fc5c29a6cf76753077609d2e57f7cebb6'
+Codility::Application.config.secret_token = '7379769250ace56029139ed4304f31880fda981d4744376893f855ac27ea476a009d2813785dd6722ea87184a100d85a37b0b9756a80a5c132517fd9d48065e1'
