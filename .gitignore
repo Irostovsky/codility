@@ -13,3 +13,10 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+/solr/data
+/solr/pids
+/log
+/.DS_Store
+.DS_Store
+.tag*
+.lock
